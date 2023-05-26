@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Escola de Programação One Bit Code - Git e GitHub</h3>
+<h3 align="left">👩‍💻  Escola de Programação <a href="https://onebitcode.com/lp/">One Bit Code</a> - Git e GitHub</h3>
 
 ###
 
