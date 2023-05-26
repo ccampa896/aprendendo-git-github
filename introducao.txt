@@ -1,0 +1,46 @@
+# Introdução ao Git e GitHub
+
+Bem-vindo ao nosso curso de Git e GitHub! Aqui, você vai aprender tudo 
+que precisa para começar a usar essas ferramentas essenciais de controle
+ de versão e colaboração em projetos de desenvolvimento de software.
+
+## O que é Git?
+
+Git é um sistema de controle de versão distribuído gratuito e de 
+código aberto que foi projetado para lidar com tudo, desde projetos 
+pequenos a muito grandes, com velocidade e eficiência. Ele foi criado 
+por Linus Torvalds em 2005 para desenvolvimento do kernel do Linux.
+
+O Git permite que desenvolvedores trabalhem simultaneamente em 
+diferentes partes de um projeto sem se preocupar em sobrescrever o 
+trabalho um do outro. Ele rastreia e grava as alterações feitas em 
+cada arquivo no projeto, permitindo que os desenvolvedores retornem a 
+uma versão anterior se algo der errado. Além disso, o Git facilita a 
+fusão de alterações feitas por diferentes desenvolvedores e identifica 
+quando ocorrem conflitos.
+
+## O que é GitHub?
+
+GitHub é uma plataforma de hospedagem de código-fonte e serviço de 
+controle de versão usando Git. Ele fornece a interface gráfica do 
+usuário (GUI) para Git onde desenvolvedores podem colaborar em projetos.
+ Desde seu lançamento em 2008, o GitHub cresceu para se tornar a maior 
+ comunidade de desenvolvedores do mundo.
+
+Além de fornecer controle de versão, o GitHub também oferece outras 
+funcionalidades, como solicitações de pull, ações do GitHub para CI/CD,
+ rastreamento de bugs, tarefas e wikis para cada projeto. O GitHub torna
+  mais fácil para os desenvolvedores contribuir para projetos de código 
+  aberto, bem como manter seus próprios projetos de código aberto.
+
+Neste curso, vamos explorar os recursos básicos e avançados do Git e do 
+GitHub, mostrando como eles podem ser usados em um fluxo de trabalho 
+eficaz de desenvolvimento de software. Vamos percorrer a criação de um 
+repositório Git, fazer commits de alterações, criar branches, fusionar
+ alterações e resolver conflitos. Também vamos mergulhar nas
+  funcionalidades do GitHub, como criar um repositório, abrir e mesclar
+   pull requests e colaborar com outros desenvolvedores.
+
+Prepare-se para embarcar nesta jornada de aprendizado que vai 
+transformar você em um mestre do Git e GitHub!
+
