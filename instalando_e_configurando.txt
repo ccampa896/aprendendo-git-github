@@ -1,0 +1,66 @@
+Instalação e Configuração do Git
+
+O primeiro passo na sua jornada para aprender Git e GitHub é a 
+instalação do Git no seu computador. Nesta seção, vamos percorrer os 
+passos para instalar o Git e fazer algumas configurações iniciais.
+Instalação do Git
+Windows
+
+    Baixe o instalador do Git para Windows do site oficial aqui 
+    (https://git-scm.com/download/win). A instalação deve começar
+     automaticamente. Caso contrário, basta seguir o link para o 
+     download manual.
+
+    Execute o instalador e siga as instruções. É recomendável manter 
+    as configurações padrão durante a instalação, especialmente se você 
+    é novo no Git.
+
+macOS
+
+Se você está no macOS, pode instalar o Git usando Homebrew:
+
+    Abra o Terminal.
+
+    Se você não tem o Homebrew instalado, você pode instalá-lo com este 
+    comando:
+
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+    Depois de instalar o Homebrew, você pode instalar o Git com este 
+    comando:
+
+brew install git
+
+Linux
+
+Para usuários de Debian/Ubuntu, o Git pode ser instalado através do 
+apt-get. Abra o Terminal e digite:
+
+sudo apt-get update
+sudo apt-get install git
+
+Para usuários de Fedora, você pode usar o dnf para instalar o Git:
+
+sudo dnf update
+sudo dnf install git
+
+Configuração do Git
+
+Depois de ter o Git instalado, você precisa configurar sua identidade.
+ Abra o Terminal ou o Git Bash (no Windows) e digite os seguintes 
+ comandos, substituindo "Seu Nome" e "seuemail@example.com" pelas suas
+  informações:
+
+git config --global user.name "Seu Nome"
+git config --global user.email "seuemail@example.com"
+
+Esses serão usados para identificar você em seus commits.
+
+Se desejar, você também pode ativar a colorização do output do Git, o
+ que pode facilitar a leitura:
+
+
+git config --global color.ui auto
+
+Pronto! Agora você tem o Git instalado e configurado e está pronto para começar a usar. No nosso próximo passo, vamos criar nosso primeiro repositório Git.
