@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Estudante nos cursos de Graduação em Engenharia de Software e Superior em Tecnologia de Ciência de Dados e Análise de Comportamento na UniCesumar.<br><br>- 🔭 Estou trabalhando em um projeto de análise de dados.<br>- 📚 Estou estudando tecnologias para Front-End e Análise de Dados.<br><br>Resumo do curso:<br>- Introdução<br>- Instalação e Configuração<br>- Principais Comandos<br>- Branchs<br>- Conectando ao GitHub</p>
+<p align="left">Estudante nos cursos de Graduação em Engenharia de Software e Superior em Tecnologia de Ciência de Dados e Análise de Comportamento na UniCesumar.<br><br>- 🔭 Estou trabalhando em um projeto de análise de dados.<br>- 📚 Estou estudando tecnologias para Front-End (HTML, CSS e JavaScript) e Análise de Dados (Python, SQL e R).<br><br>Resumo do curso:<br>- Introdução<br>- Instalação e Configuração<br>- Principais Comandos<br>- Branchs<br>- Conectando ao GitHub</p>
 
 ###
 
