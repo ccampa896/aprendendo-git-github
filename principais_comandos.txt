@@ -1,0 +1,49 @@
+Principais Comandos do Git
+
+Aqui está uma lista de alguns dos comandos mais comuns que você usará 
+ao trabalhar com Git:
+
+    git init: Inicializa um novo repositório Git no diretório atual. 
+    Esse comando cria um novo subdiretório chamado .git que contém 
+    todos os arquivos necessários para o repositório.
+
+    git clone <url>: Clona um repositório existente. A URL pode ser um 
+    endereço de um repositório em um servidor remoto, como o GitHub.
+
+    git status: Mostra o estado atual do seu repositório. Ele lista 
+    quais arquivos foram modificados e quais estão prontos para serem 
+    commitados.
+
+    git add <arquivo>: Adiciona um arquivo ao "palco" para que ele seja
+     incluído no próximo commit. Você pode usar git add . para adicionar
+      todos os arquivos alterados ao palco.
+
+    git commit -m "mensagem do commit": Faz commit das alterações que
+     você adicionou ao palco. A mensagem do commit deve ser uma breve 
+     descrição do que foi alterado.
+
+    git log: Mostra um histórico de todos os commits feitos no 
+    repositório.
+
+    git checkout <branch>: Muda para uma branch diferente. Se a branch 
+    não existir, Git a criará para você.
+
+    git branch: Lista todas as branches do seu repositório.
+
+    git merge <branch>: Funde as alterações da branch especificada na 
+    branch atual.
+
+    git pull: Atualiza seu repositório local com as alterações do 
+    repositório remoto.
+
+    git push: Envia suas alterações para o repositório remoto.
+
+    git remote add <nome> <url>: Adiciona um repositório remoto ao seu 
+    repositório Git local. Normalmente, você chamaria esse repositório remoto de "origin".
+
+    git diff: Mostra as diferenças entre o seu código e o último commit.
+
+Lembre-se, o Git tem uma variedade de comandos e opções muito mais ampla.
+ À medida que você ganha mais experiência com o Git, descobrirá que há 
+ muitos outros comandos úteis para situações específicas. No entanto, 
+ esses são os comandos mais comuns que você usará no seu dia a dia.
