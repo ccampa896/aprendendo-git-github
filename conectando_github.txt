@@ -1,0 +1,58 @@
+Conectando Git ao GitHub
+
+Depois de ter um repositório Git local no seu computador, você pode 
+conectá-lo ao GitHub para compartilhar seu trabalho com outros e 
+colaborar com outros desenvolvedores. Aqui estão os passos para 
+conectar seu repositório Git local ao GitHub.
+
+Criando um Novo Repositório no GitHub
+
+Primeiro, você precisa criar um repositório no GitHub onde você pode 
+enviar seu repositório Git local.
+
+    Faça login na sua conta do GitHub e clique em "+", localizado no 
+    canto superior direito da página, e escolha "New repository" 
+    (Novo repositório).
+
+    Dê um nome ao seu repositório, adicione uma descrição (opcional), 
+    escolha se deseja torná-lo público (visível para todos) ou privado 
+    (visível apenas para você e colaboradores convidados) e clique em 
+    "Create repository" (Criar repositório).
+
+Conectando seu Repositório Local ao GitHub
+
+Depois de criar seu repositório no GitHub, você pode conectar seu 
+repositório Git local a ele. Aqui estão os passos:
+
+    No Terminal ou no Git Bash, navegue até a pasta do seu repositório
+     local.
+
+    Adicione o repositório GitHub como um "remote" (repositório remoto)
+     para seu repositório local usando o comando git remote add.
+      Geralmente, o nome padrão para o repositório remoto é "origin".
+       Aqui está o comando que você usaria, substitua 
+       "url_do_seu_repositorio" pela URL do seu repositório no GitHub:
+
+
+git remote add origin url_do_seu_repositorio
+
+    Verifique se o repositório remoto foi adicionado corretamente
+     usando o comando git remote -v. Este comando deve mostrar a URL
+      do seu repositório GitHub para "fetch" e "push".
+
+Enviando Alterações para o GitHub
+
+Depois de conectar seu repositório local ao GitHub, você pode enviar 
+suas alterações para o GitHub com os comandos git push. Se você estiver 
+na branch principal (geralmente chamada de "master" ou "main"), você 
+pode usar o seguinte comando:
+
+
+git push -u origin master
+
+Isso envia todas as suas alterações na branch master para o GitHub. 
+O "-u" define a upstream, o que significa que na próxima vez que você 
+quiser enviar alterações, você só precisa digitar git push.
+
+E é isso! Agora você conectou seu repositório Git local ao GitHub e 
+pode compartilhar e colaborar no seu projeto com outros desenvolvedores.
